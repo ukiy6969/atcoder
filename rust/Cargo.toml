@@ -1,0 +1,73 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["ukiy6969 <ukiy6969@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "abc-051_b"
+path = "src/abc/051/b.rs"
+
+[[bin]]
+name = "abc-085_c"
+path = "src/abc/085/c.rs"
+
+[[bin]]
+name = "arc-061_c"
+path = "src/arc/061/a.rs"
+
+[[bin]]
+name = "abc-079_c"
+path = "src/abc/079/c.rs"
+
+[[bin]]
+name = "abc-104_c"
+path = "src/abc/104/c.rs"
+
+[[bin]]
+name = "arc-029_a"
+path = "src/arc/029/a.rs"
+
+[[bin]]
+name = "abc-002_d"
+path = "src/abc/002/d.rs"
+
+[[bin]]
+name = "agc-043_a"
+path = "src/agc/043/a.rs"
+
+[[bin]]
+name = "atc-001_a"
+path = "src/atc/001/a.rs"
+
+[[bin]]
+name = "arc-031_b"
+path = "src/arc/031/b.rs"
+
+[[bin]]
+name = "abc-159_a"
+path = "src/abc/159/a.rs"
+
+[[bin]]
+name = "abc-159_b"
+path = "src/abc/159/b.rs"
+
+[[bin]]
+name = "abc-159_c"
+path = "src/abc/159/c.rs"
+
+[[bin]]
+name = "abc-159_d"
+path = "src/abc/159/d.rs"
+
+[[bin]]
+name = "abc-159_e"
+path = "src/abc/159/e.rs"
+
+[[bin]]
+name = "arc-037_b"
+path = "src/arc/037/b.rs"
